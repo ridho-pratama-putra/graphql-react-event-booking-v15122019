@@ -1,0 +1,21 @@
+{
+  "name": "graphql-react-event-booking-v15122019",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridho-pratama-putra/graphql-react-event-booking-v15122019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridho-pratama-putra/graphql-react-event-booking-v15122019/issues"
+  },
+  "homepage": "https://github.com/ridho-pratama-putra/graphql-react-event-booking-v15122019#readme"
+}
